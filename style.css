@@ -1,3 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+
+
+
 header {
     background-color: green;
     display: flex;
@@ -7,4 +16,12 @@ header {
 #nav_bar ul {
     display: flex;
     flex-direction: row;
+    margin-right: 30px;
+    list-style: none;
 }
+ #nav_bar a {
+    margin: 10px;
+    text-decoration: none;
+    color: #fff;
+ }
+
