@@ -1,0 +1,10 @@
+header {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+
+#nav_bar ul {
+    display: flex;
+    flex-direction: row;
+}
