@@ -4,6 +4,8 @@
     padding: 0;
 }
 
+/* Nav Bar */
+
 .nav_bar {
     background-color: green;
     color: white;
@@ -31,3 +33,5 @@
 .nav_link:hover {
     background-color: greenyellow;
 }
+
+/* Hero Image Main Page */
