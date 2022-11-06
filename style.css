@@ -1,24 +1,33 @@
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    border: none;
 }
 
-header {
+.nav_bar {
     background-color: green;
+    color: white;
     display: flex;
     justify-content: space-between;
+    padding: 0 1rem;
+    align-items: center;
 }
 
-#nav_bar ul {
-    display: flex;
-    flex-direction: row;
-    margin-right: 30px;
-    list-style: none;
+.nav_list {
+    display: flex;   
+    list-style: none; 
 }
- #nav_bar a {
-    margin: 10px;
+
+.nav_link{
+    padding: 1rem;
+}
+
+.nav_link a {
+    color: white;
     text-decoration: none;
-    color: #fff;
- }
+    padding: 1rem;
+}
 
+.nav_link:hover {
+    background-color: greenyellow;
+}
