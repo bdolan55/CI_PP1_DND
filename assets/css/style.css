@@ -36,7 +36,14 @@
 
 /* Hero Image Main Page */
 
+.img_carousel {
+    margin: 0;
+    padding: 0;
+}
+
 .hero_slide1 {
+    margin: 0;
+    padding: 0;
     height: 30em;
     width: 100%;
 }
@@ -58,4 +65,12 @@
 .hero_par_txt {
     font-size: 1.5em;
     padding-left: 4em;
+}
+
+footer {
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
 }
