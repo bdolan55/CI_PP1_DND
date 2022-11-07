@@ -35,3 +35,27 @@
 }
 
 /* Hero Image Main Page */
+
+.hero_slide1 {
+    height: 30em;
+    width: 100%;
+}
+
+.hero_txt {
+    position: absolute;
+    margin-top: 8em;
+    margin-left: 12em;
+    color: white;
+    height: 10em;
+    width: 40em;
+    background-color: orange;
+}
+
+.hero_head_txt {
+    font-size: 3em;
+}
+
+.hero_par_txt {
+    font-size: 1.5em;
+    padding-left: 4em;
+}
