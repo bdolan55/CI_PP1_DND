@@ -37,8 +37,7 @@
 /* Hero Image Main Page */
 
 .img_carousel {
-    margin: 0;
-    padding: 0;
+    margin-bottom: -4px;
 }
 
 .hero_slide1 {
@@ -68,9 +67,8 @@
 }
 
 footer {
-    margin: 0;
-    padding: 0;
     background-color: blue;
     display: flex;
     justify-content: space-between;
+    padding: 5px;
 }
