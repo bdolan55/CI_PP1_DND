@@ -55,6 +55,7 @@
     height: 10em;
     width: 40em;
     background-color: orange;
+    
 }
 
 .hero_head_txt {
@@ -67,8 +68,38 @@
 }
 
 footer {
-    background-color: blue;
+    background-color: grey;
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    padding: 1rem 5rem;
+}
+
+/* Footer */
+
+.address_head {
+    text-align: center;
+}
+
+.address_txt {
+    text-align: center;
+}
+
+.phone_head {
+    text-align: center;
+}
+
+.socials {
+    text-align: center;
+}
+
+.social_list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    padding: 0 1.25rem;
+    font-size: x-large;
+    color: black;
 }
