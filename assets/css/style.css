@@ -106,6 +106,12 @@ a{
 
 /*Our Projects Page */
 
+.projects_container {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
 .project_page_head {
     height: 20rem;
     width: 100%;
