@@ -103,3 +103,27 @@ a{
     font-size: x-large;
     color: black;
 }
+
+/*Our Projects Page */
+
+.project_page_head {
+    height: 20rem;
+    width: 100%;
+}
+
+.project_cards {
+    margin: 3rem;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.project_cards > h1 {
+    color: red;
+    padding: 3rem;
+}
