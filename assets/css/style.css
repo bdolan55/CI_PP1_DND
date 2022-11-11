@@ -182,3 +182,29 @@ a{
     align-items: center;
     background-color: aquamarine;
 }
+
+/* Contact Us Page */
+
+.contact_us{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 4rem;
+}
+
+.contact_us_text {
+    width: 40%;
+}
+
+.contact_us_text > h1 {
+    font-size: 3rem;
+    padding: 3rem 3rem 3rem 0;
+}
+.contact_us_text > p {
+    padding:  2rem 3rem 2rem 0;
+    font-size: x-large;
+    text-align: justify;
+}
+
+.contact_us > hr {
+    background-color: rgb(202, 198, 198);
+}
