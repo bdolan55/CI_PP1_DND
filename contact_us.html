@@ -35,19 +35,21 @@
         <hr>
         <form class="contact">
         <ul>
-           <li>
-            <input type="text" id="first_name" name="first_name" placeholder="First Name*">
-            <input type="text" id="last_name" name="last_name" placeholder="Last Name*">
+           <li class="contact_names">
+            <input type="text" id="first_name" name="first_name" size="20" placeholder="First Name*">
+            <input type="text" id="last_name" name="last_name" size="20"placeholder="Last Name*">
             </li>
-            <li>
-                <input type="text" id="tel_num" name="tel_num" placeholder="Contact No*">
-                <input type="email" id="email" name="email" placeholder="Your Email">
-                <input type="text" id="company" name="company" placeholder="Company*">
+            <li class="contact_details">
+                <input type="text" id="tel_num" name="tel_num" size="15" placeholder="Contact No*">
+                <input type="email" id="email" name="email" size="15" placeholder="Your Email">
+                <input type="text" id="company" name="company" size="15" placeholder="Company*">
             </li>
-            <li>
-                <textarea name="message" placeholder="Message" id="message" cols="30" rows="10"></textarea>
+            <li class="contact_message">
+                <textarea name="message" placeholder="Message" id="message" cols="58" rows="10"></textarea>
             </li>
+            <input class="btn_contact" type="submit" value="Send Message">
         </ul>
+
     </form>
     </section>
     <hr>  

@@ -187,6 +187,7 @@ a{
 
 .contact_us{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     margin: 4rem;
 }
@@ -209,18 +210,41 @@ a{
     background-color: rgb(202, 198, 198);
 }
 
+
 .contact > ul {
     list-style: none;
 }
 
-.contact > input {
+.contact > ul > li > input {
     border-bottom: 1px solid rgb(178, 178, 178);
     border-left: none;
     border-right: none;
     border-top: none;
     outline: none;
+    font-size: large;
 }
 
-.contact > textarea {
+.contact > ul > li > textarea {
+    border: 1px solid rgb(178, 178, 178);
     outline: none;
+    margin-bottom: 2rem;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.contact_names , .contact_details {
+    margin-bottom: 4rem;
+    margin-top: 6rem;
+}
+
+.btn_contact {
+    border: none;
+    font-size: x-large;
+    color: rgb(142, 138, 138);
+    background-color: white;
+    cursor: pointer;
+}
+
+.btn_contact:hover {
+    color: rgb(72, 72, 72);
 }
