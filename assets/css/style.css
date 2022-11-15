@@ -208,3 +208,19 @@ a{
 .contact_us > hr {
     background-color: rgb(202, 198, 198);
 }
+
+.contact > ul {
+    list-style: none;
+}
+
+.contact > input {
+    border-bottom: 1px solid rgb(178, 178, 178);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+}
+
+.contact > textarea {
+    outline: none;
+}
