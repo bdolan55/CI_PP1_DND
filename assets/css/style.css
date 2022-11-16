@@ -118,10 +118,10 @@ a{
 }
 
 .project_cards {
-    margin: 3rem;
+    margin: 16px;
     border: 2px solid black;
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 725px;
     display: flex;
     flex-direction: column;
     justify-content: center;
