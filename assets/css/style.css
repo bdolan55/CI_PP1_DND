@@ -119,49 +119,41 @@ a{
 
 .project_cards {
     position: relative;
-    width:50%;
+    width:80%;
+    margin: 0 auto;
 }
 
 .project_cards_img {
     display: block;
     width: 100%;
     height: auto;
-    opacity: 1;
 }
-.project_cards_txt_area {
-    position: absolute;     
-    opacity:0;
-    bottom:0;
-    right:0;
-    top:100%;
-    height:0;
-    width:100%;
-    overflow: hidden;
-    transition: .5s ease;
-    background-color: blue;
+.project_cards_txt {
+    position: absolute; 
+    top: 40%;
+    left: 40%;  
+    transform: translate(-50%, -50%);  
+    -ms-transform: translate(-50%, -50%);
   }
 
-  .project_cards_txt {
-    color: white;
-    font-size: 14px;
-    padding: 10px 15px;  
-    text-align: center;
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-}
+  .project_cards_txt span {
+    font-size: 20px;
+    display: block;
+  }
 
+  .project_cards_txt_area {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: grey;
+    width: 100%;
+    transition: .5% ease;    
+  }
 
-.project_cards:hover,.project_cards_img {
-    opacity: .7;
-}
-.project_cards:hover,.project_cards_txt_area {
-    top: 0;
+  .project_cards:hover .project_cards_txt_area {
     height: 100%;
-    opacity:0.5;
-}
+  }
 
 /* Our Company Page */
 
