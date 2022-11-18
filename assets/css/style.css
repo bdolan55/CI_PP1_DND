@@ -184,7 +184,8 @@ a{
     width: 100%;
     height: auto;
     transition: .5s ease;
-    backface-visibility: hidden;
+    backface-visibility:hidden;
+    background-color: black;
 }
 
 .staff_profile_inner {
@@ -200,14 +201,16 @@ a{
 }
 
 .staff_inner_txt {
-    background-color: #595c5b;
-    color: white;
+    background-color:rgb(205, 198, 198);
+    color: black;
     font-size: 16px;
-    padding: 16px 32px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
 }
 
 .staff_profile:hover .staff_img {
-    opacity: 0.3;
+    opacity: 0.7;
   }
   
   .staff_profile:hover .staff_profile_inner {
