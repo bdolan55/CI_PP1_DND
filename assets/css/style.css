@@ -4,7 +4,9 @@
     padding: 0;
 }
 
-/* Nav Bar */
+h1, h2, ul, li, p{
+    font-family: 'Poppins', sans-serif; ;
+}
 
 .nav_bar {
     position: fixed;
@@ -15,7 +17,8 @@
     padding: 0 1rem;
     align-items: center;
     background-color: rgba(0, 0, 0, 0.6);
-    backdrop-filter: blur(8px);
+    backdrop-filter: blur(4px);
+    z-index: 1;
 }
 
 .nav_list {
@@ -28,13 +31,18 @@
 }
 
 .nav_link a {
+    font-size: 1rem;
     color: white;
     text-decoration: none;
     padding: 1rem;
 }
 
 .nav_link:hover {
-    background-color: green;
+    text-decoration: underline;
+}
+
+.nav_bar .nav_active {
+    text-decoration: underline;
 }
 
 /* Hero Image Main Page */
@@ -79,7 +87,12 @@ footer {
 
 /* Footer */
 
-.address_head, .address_txt, .address_head, .socials, .social_list {
+.address_head .address_txt {
+    display: flex;
+    flex-direction: column;
+}
+
+.socials, .social_list {
     text-align: center;
     display: flex;
     flex-wrap: wrap;
