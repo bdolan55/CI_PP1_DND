@@ -7,13 +7,15 @@
 /* Nav Bar */
 
 .nav_bar {
-    background-color: rgba(0, 0, 0, .6);
-    backdrop-filter: blur(8px);
+    position: fixed;
+    width: 100%;
     color: white;
     display: flex;
     justify-content: space-between;
     padding: 0 1rem;
     align-items: center;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(8px);
 }
 
 .nav_list {
