@@ -117,43 +117,7 @@ a{
     width: 100%;
 }
 
-.project_cards {
-    position: relative;
-    width:80%;
-    margin: 0 auto;
-}
 
-.project_cards_img {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-.project_cards_txt {
-    position: absolute; 
-    top: 40%;
-    left: 40%;  
-    transform: translate(-50%, -50%);  
-    -ms-transform: translate(-50%, -50%);
-  }
-
-  .project_cards_txt span {
-    font-size: 20px;
-    display: block;
-  }
-
-  .project_cards_txt_area {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background-color: grey;
-    width: 100%;
-    transition: .5% ease;    
-  }
-
-  .project_cards:hover .project_cards_txt_area {
-    height: 100%;
-  }
 
 /* Our Company Page */
 
