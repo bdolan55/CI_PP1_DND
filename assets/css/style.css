@@ -63,14 +63,16 @@ h1, h2, ul, li, p{
     margin-top: 8em;
     margin-left: 12em;
     color: white;
-    height: 10em;
+    height: 10rem;
     width: 40em;
     z-index: 1;
+    background-color: rgba(49, 46, 46, 0.888);
     
 }
 
 .hero_head_txt {
     font-size: 3em;
+    margin-left: 1em;
 }
 
 .hero_par_txt {
@@ -79,7 +81,7 @@ h1, h2, ul, li, p{
 }
 
 footer {
-    background-color: grey;
+    background-color: rgba(204, 193, 193, 0.374);
     display: flex;
     justify-content: space-between;
     padding: 1rem 5rem;
