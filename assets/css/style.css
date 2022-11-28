@@ -92,14 +92,12 @@ h1, h2, ul, li, p{
 
 /* Hero Image Main Page */
 
-.carousel-item {
-    filter:hue-rotate(50%) ;
-}
 
-#carouselExampleFade {
-    margin: 0;
-    padding: 0;
+.d-block {
+    height: 80vh;
     width: 100%;
+}
+#carouselExampleFade {
     z-index: 0;
 }
 
@@ -117,13 +115,13 @@ h1, h2, ul, li, p{
 }
 
 .hero_head_txt {
-    font-size: 3em;
-    margin-left: 1em;
+    font-size: 3rem;
+    margin-left: 1rem;
 }
 
 .hero_par_txt {
-    font-size: 1.5em;
-    padding-left: 4em;
+    font-size: 2rem;
+    padding: 2rem 2rem 2rem 4rem;
 }
 
 
