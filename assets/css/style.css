@@ -126,6 +126,10 @@ h1, h2, ul, li, p{
     padding-left: 4em;
 }
 
+
+
+/* Footer */
+
 footer {
     background-color: rgba(204, 193, 193, 0.374);
     display: flex;
@@ -133,17 +137,10 @@ footer {
     padding: 1rem 5rem;
 }
 
-/* Footer */
-
-footer {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.address_head .address_txt {
+.address_head, .address_txt, .phone_head, .mail {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .socials, .social_list {
@@ -385,7 +382,7 @@ a{
 
 /* Media Querys */
 
-@media (max-width: 650px) {
+@media (max-width: 850px) {
     .toggle-button {
         display: flex;
     }   
@@ -415,5 +412,27 @@ a{
 
     .nav_list.active{
         display: flex;
+    }
+
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .address_head .phone_head .mail {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .address_txt {
+        text-align: center;
+    }
+}
+
+@media (max-width: 440px) {
+    .social_list {
+        flex-direction: column;
     }
 }
