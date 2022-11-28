@@ -467,15 +467,84 @@ a{
         margin: 0;
 
     }
- 
 
+    .contact_us_text, .contact_us {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+    }
 }
 
 @media (max-width: 800px) {
     .about_us_profile {
         margin: 0;
         align-items: center;
-        flex-direction: column;  
+        flex-wrap: wrap;  
         justify-content: space-between;      
+    }
+
+    .contact_info {
+        display: none;
+    }
+
+    .contact_us > .contact_us_text > h1 {
+        padding: 0;
+    }
+
+    .contact_us {
+        align-items: center;
+        justify-content: flex-start;
+    }
+
+    form .contact {
+        display: flex;
+        justify-content: flex-start;
+    }
+}
+
+@media (max-width: 650px) {
+
+    .contact_us_text {
+        display: flex;
+        justify-content: flex-start;
+        margin: 0;
+        width: 80%;
+    }
+    .contact > ul {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+    .contact > ul > li > #tel_num, #email, #company {
+        display: flex;
+        flex-direction: column;
+        padding-top: 3rem;
+    }
+    .contact > .contact_names > #first_name, #last_name{
+        display: flex;
+        padding-top: 3rem;
+    }
+
+    #first_name {
+        padding-top: 3rem;
+    }
+
+    .contact_details {
+        padding-bottom: 3rem;
+    }
+
+    .contact_details, .contact_names {
+        margin: 0;
+    }
+
+    #message {
+        width: 90vw;
+    }
+    .btn_contact {
+        display: flex;
+        justify-content: flex-start;
+        color: #ff9900;
     }
 }
