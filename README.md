@@ -3,7 +3,7 @@
 
 ![Mockup image]("C:\Users\Brian\Downloads\am_i_responsive screenshot.png")
 
-[Live webpage](https://bdolan55.github.io/CI_PP1_DND/)
+[Live webpage](./docs/am_i_responsive%20screenshot.png)
 
 ## Table of Content
 
