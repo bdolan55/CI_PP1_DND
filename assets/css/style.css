@@ -232,6 +232,7 @@ a{
 
 .about_us_text {
     width: 40%;
+    margin: inherit;
 }
 
 .about_us_text > h1 {
@@ -382,7 +383,7 @@ a{
 
 /* Media Querys */
 
-@media (max-width: 850px) {
+@media (max-width: 900px) {
     .toggle-button {
         display: flex;
     }   
@@ -434,5 +435,16 @@ a{
 @media (max-width: 440px) {
     .social_list {
         flex-direction: column;
+    }
+}
+
+@media (max-width: 1110px) {
+
+    .about_us {
+        margin: 1rem;
+
+    }
+    .about_us_text, .our_company_img {
+        width:100%;
     }
 }
