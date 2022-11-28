@@ -375,6 +375,7 @@ a{
 }
 
 .map_loc {
+    display: flex;
     margin: 3rem;
 }
 
