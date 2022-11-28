@@ -1,7 +1,7 @@
 # DND Group
 (Developer: Brian Dolan)
 
-![Mockup image]()
+![Mockup image]("C:\Users\Brian\Downloads\am_i_responsive screenshot.png")
 
 [Live webpage](https://bdolan55.github.io/CI_PP1_DND/)
 
