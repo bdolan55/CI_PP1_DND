@@ -430,12 +430,40 @@ a{
     .address_txt {
         text-align: center;
     }
+
+    .projects_card {
+        height: 100%;
+        width: 100%;
+    }
+    .projects_card > .projects_card_txt {
+        font-display: ;
+    }
 }
 
 @media (max-width: 440px) {
     .social_list {
         flex-direction: column;
     }
+
+    .projects_card > .projects_card_txt {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 440px) {
+    .projects_card > .projects_card_txt {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        font-size: xx-small;
+    }
+
 }
 
 @media (max-width: 1110px) {
