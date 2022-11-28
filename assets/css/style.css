@@ -441,6 +441,8 @@ a{
 }
 
 @media (max-width: 440px) {
+
+
     .social_list {
         flex-direction: column;
     }
@@ -553,5 +555,11 @@ a{
         display: flex;
         justify-content: flex-start;
         color: #ff9900;
+    }
+}
+
+@media (max-width: 520px) {
+    .hero_txt > .hero_par_txt{
+        font-size: 1.5rem;
     }
 }
