@@ -385,6 +385,9 @@ a{
     margin: 3rem;
 }
 
+.btn_toggle {
+    display: none;
+}
 
 /* Media Querys */
 
