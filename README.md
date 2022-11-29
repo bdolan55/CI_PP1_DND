@@ -104,9 +104,18 @@ The colors scheme chosen for DND Group site aims to be modern and clean. The gre
 
 
 ### Fonts
-.
+The Font chosen for the DND Group Website is from the Google Fonts Poppin Family. The font chosen is the Poppins ExtraLight 200. This was chosen to promote the modern, clean functional look that the DND Group site provides to the user.
+<br>
+
+![Fonts](./docs/poppins_google_font.png)
 
 ### Structure
+The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky it moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
+
+- The homepage has a Main Hero Image with Text on top stating DND Group motto. 
+- The Our Company page has a paragraph promoting on DND Group ethos and images and contact details to manageria;l staff within DND Group.
+- The Projects page provides images and information regarding jobs DND Group have completed.
+- The contact form provides all details to get in touch with DND Group, Contact form and Map to DND Group office. 
 
 
 ### Wireframes
