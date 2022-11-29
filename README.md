@@ -148,7 +148,7 @@ The website has been presented in a familiar and user friendly way. The navigati
 - Balsamiq
 - Google Fonts
 - Font Awsome
-- Favicon<span>.</span>io
+- Favicon
 
 ## Features
 The page consists of Four pages and fourteen features
@@ -241,16 +241,16 @@ The page consists of Four pages and fourteen features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_index_validation.PNG">
+<img src="docs/w3_index_validation.PNG">
 </details>
 <details><summary>Our Company</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_our_company_validation.PNG">
+<img src="docs/w3_our_company_validation.PNG">
 </details>
 <details><summary>Our Projects</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_our_projects_validation.PNG">
+<img src="docs/w3_our_projects_validation.PNG">
 </details>
 <details><summary>Contact Us</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_contact_us_validation.PNG">
+<img src="docs/w3_contact_us_validation.PNG">
 </details>
 
 
@@ -258,10 +258,10 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
 <details><summary>whole page</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_css_validation_error.PNG">
+<img src="docs/w3_css_validation_error.PNG">
 </details>
 <details><summary>style.css</summary>
-<img src="./workspace/CI_PP1_DND/docs/w3_css_validation_pass.PNG">
+<img src="docs/w3_css_validation_pass.PNG">
 </details>
 
 ### Accessibility
@@ -284,16 +284,16 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_home.png">
+<img src="docs/lighthouse_perf_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_our_company.png">
+<img src="docs/lighthouse_perf_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_our_projects.png">
+<img src="docs/lighthouse_perf_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_contact.png">
+<img src="docs/lighthouse_perf_contact.png">
 </details>
 
 ### Performing tests on various devices 
