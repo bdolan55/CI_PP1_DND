@@ -229,7 +229,7 @@ W3C Markup Validation has been used to validate the HTML code within from the we
 <br>
 
 ### CSS Validation
-W3C Jigsaw CSS Validator has been used validate the CSS code within the website.Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed linked to Bootstrap version 5.2. The CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors found.
+W3C Jigsaw CSS Validator has been used validate the CSS code within the website. Parse Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed the issue to be linked with Bootstrap version 5.2. To ensure the CSS would pass the CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors recorded.
 <details><summary>whole page</summary>
 <img src="docs/w3_css/w3_css_validation_error.PNG">
 </details>
@@ -240,12 +240,12 @@ W3C Jigsaw CSS Validator has been used validate the CSS code within the website.
 <br>
 
 ### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+WAVE WebAIM accessibility tool has been used to ensure the website shows no accessibility errors. All pages within the website have passed accesibility testing with no errors recoreded.
 <details><summary>Home</summary>
 <img src="docs/Wave/wave_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="/workspace/CI_PP1_DND/docs/Wave/wave_our_company.png">
+<img src="docs/Wave/wave_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
 <img src="docs/Wave/wave_our_projects.png">
