@@ -363,6 +363,10 @@ a{
     margin-top: 6rem;
 }
 
+.form_label {
+    display: none;
+}
+
 .btn_contact {
     border: none;
     font-size: x-large;
