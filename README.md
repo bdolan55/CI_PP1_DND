@@ -112,16 +112,16 @@ For the colour sheme warm brown tones were chosen to match the images on the pag
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="">
+<img src="/workspace/CI_PP1_DND/docs/wireframe_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="">
+<img src="/workspace/CI_PP1_DND/docs/wireframe_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="">
+<img src="/workspace/CI_PP1_DND/docs/wireframe_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="">
+<img src="/workspace/CI_PP1_DND/docs/wireframe_contact.png">
 </details>
 
 ## Technologies Used
