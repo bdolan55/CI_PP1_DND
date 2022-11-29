@@ -72,25 +72,24 @@
 ### User Stories
 
 #### First-time User 
-1. As a first time user, 
-2. As a first time user, 
-3. As a first time user, 
-4. As a first time user, 
+1. As a first time user, I want to find out information about DND Group.
+2. As a first time user, I want to be able find out information on Company Personnel.
+3. As a first time user, I want to see past project completed , Project size and Images of works.
+4. As a first time user, I want to be able to easily navigate throughout the site and find what information i need easily. 
 
 #### Returning User
-5. As a returning user, 
-6. As a returnign user, 
-7. As a returning user,
-8. As a returning user, 
-9. As a returning user, 
-10. As a returning user, 
-11. As a returning user, 
-12. As a returning user, 
+5. As a returning user, I want to see where DND Office is located
+6. As a returnign user, I want to see what types of work DND can provide me a client
+7. As a returning user, I want to see links to the Organisations social sites
+8. As a returning user, I want to know how to get in touch with DND Group and Contact details.
+ 
 
 #### Site Owner 
-13. As the site owner, 
-14. As the site owner, 
-15. As the site owner, 
+9.  As the site owner, Provide details of what services DND Group provides as to the Office fitout Industry.
+10. As the site owner, Provide information on Company Organisational Structure and Employee Profiles
+11. As the site owner, Provide company Case Studies - Information on Projects completed and Image.
+12. As the site owner, Provide contact details and How to get in touch for further information.
+13. As the site owner, Provide company office location and Map.
 
 ## Design
 
