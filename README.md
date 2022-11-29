@@ -94,13 +94,13 @@
 ## Design
 
 ### Design Choices
-The webpage was designed with the feeling a customer 
+The DND Group website was designed to be clean, informative and easy to work with which represents the work ethic and customer service DND provide. Modern Images have been used on the site to represent the image of high end and future focused which DND Group provide.  
 
 ### Colour
-For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+The colors scheme chosen for DND Group site aims to be modern and clean. The grey palette that has been chosen represents that cool and sleek view. I used the Coolors palette website to find the colors used with the website.
 <br>
 
-![Colour scheme]()
+![Colour scheme](./docs/coolors_palette_design.png)
 
 
 ### Fonts
