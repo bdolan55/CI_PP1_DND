@@ -260,16 +260,16 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 The DND Group website was tested for performance using Google Lighthouse within Google Chrome Developer Tools.
 
 <details><summary>Home</summary>
-<img src="docs/Wave/wave_home.png">
+<img src="docs/lighthouse/lighthouse_perf_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="docs/Wave/wave_our_company.png">
+<img src="docs/lighthouse/lighthouse_perf_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="docs/Wave/wave_our_projects.png">
+<img src="docs/lighthouse/lighthouse_perf_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="docs/Wave/wave_contact_us.png">
+<img src="docs/lighthouse/lighthouse_perf_contact.png">
 </details>
 
 ### Performing tests on various devices 
