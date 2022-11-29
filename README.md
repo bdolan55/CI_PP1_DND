@@ -113,7 +113,7 @@ The Font chosen for the DND Group Website is from the Google Fonts Poppin Family
 The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky it moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
 
 - The homepage has a Main Hero Image with Text on top stating DND Group motto. 
-- The Our Company page has a paragraph promoting on DND Group ethos and images and contact details to manageria;l staff within DND Group.
+- The Our Company page has a paragraph promoting on DND Group ethos and images and contact details to managerial staff within DND Group.
 - The Projects page provides images and information regarding jobs DND Group have completed.
 - The contact form provides all details to get in touch with DND Group, Contact form and Map to DND Group office. 
 
@@ -121,16 +121,16 @@ The website has been presented in a familiar and user friendly way. The navigati
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_DND/docs/wireframe_home.png">
+<img src="./workspace/CI_PP1_DND/docs/wireframe_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="/workspace/CI_PP1_DND/docs/wireframe_our_company.png">
+<img src="./workspace/CI_PP1_DND/docs/wireframe_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="/workspace/CI_PP1_DND/docs/wireframe_our_projects.png">
+<img src="./workspace/CI_PP1_DND/docs/wireframe_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="/workspace/CI_PP1_DND/docs/wireframe_contact.png">
+<img src="./workspace/CI_PP1_DND/docs/wireframe_contact.png">
 </details>
 
 ## Technologies Used
@@ -241,16 +241,16 @@ The page consists of Four pages and fourteen features
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_index_validation.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_index_validation.PNG">
 </details>
 <details><summary>Our Company</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_our_company_validation.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_our_company_validation.PNG">
 </details>
 <details><summary>Our Projects</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_our_projects_validation.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_our_projects_validation.PNG">
 </details>
 <details><summary>Contact Us</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_contact_us_validation.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_contact_us_validation.PNG">
 </details>
 
 
@@ -258,10 +258,10 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
 <details><summary>whole page</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_css_validation_error.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_css_validation_error.PNG">
 </details>
 <details><summary>style.css</summary>
-<img src="/workspace/CI_PP1_DND/docs/w3_css_validation_pass.PNG">
+<img src="./workspace/CI_PP1_DND/docs/w3_css_validation_pass.PNG">
 </details>
 
 ### Accessibility
@@ -284,13 +284,13 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="/workspace/CI_PP1_DND/docs/lighthouse_perf_home.png">
+<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="/workspace/CI_PP1_DND/docs/lighthouse_perf_our_company.png">
+<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="/workspace/CI_PP1_DND/docs/lighthouse_perf_our_projects.png">
+<img src="./workspace/CI_PP1_DND/docs/lighthouse_perf_our_projects.png">
 </details>
 <details><summary>Contact Usy</summary>
 <img src="/workspace/CI_PP1_DND/docs/lighthouse_perf_contact.png">
