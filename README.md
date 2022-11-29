@@ -36,3 +36,63 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+## Project Goals 
+
+### User Goals
+- Find out who DND Group are as and what they can provide in the Construction Industry.
+- See profiles and contact details for all managerial staff.
+- To view portfolio of works completed by DND Group.
+- Find DND Group Social Sites for any new updates on projects.
+- See location and Contact details for DND Group Office.
+- Send message direct from website to DND Group.
+
+### Site Owner Goals
+- Promote the business and show Online presence for new or existing customers.
+- A place to showcase completed projects by DND Group.
+- Information on Company Organisational Structure and Employee Profiles and contact details.
+- Company office location and Map.
+- Provide contact details to get in touch with DND Group directly through Contact Us Page.
+
+## User Experience
+
+### Target Audience
+- Existing and new Customers researching companies to complete Construction works.
+- Engineers and Clients to see past project examples to review suitability for future projects.
+- New clients looking for Construction Fitout works
+- Existing Clients looking for contact details of Managerial staff within DND Group,
+
+### User Requrements and Expectations
+
+- A clean and easy to use website with simple navigation.
+- Information from DND Group is easy to find and access
+- Easy for existing and new clients to get in contact with DND Group.
+- Examples of previous projects completed by DND Group.
+
+### User Stories
+
+#### First-time User 
+1. As a first time user, 
+2. As a first time user, 
+3. As a first time user, 
+4. As a first time user, 
+
+#### Returning User
+5. As a returning user, 
+6. As a returnign user, 
+7. As a returning user,
+8. As a returning user, 
+9. As a returning user, 
+10. As a returning user, 
+11. As a returning user, 
+12. As a returning user, 
+
+#### Site Owner 
+13. As the site owner, 
+14. As the site owner, 
+15. As the site owner, 
+
+## Design
+
+### Design Choices
+The webpage was designed with the feeling a customer 
