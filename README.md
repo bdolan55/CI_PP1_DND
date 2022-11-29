@@ -31,11 +31,9 @@
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+10. [Code used and adapted](#Code-used-and-adapted)
 
 ## Project Goals 
 
@@ -136,19 +134,20 @@ The website has been presented in a familiar and user friendly way. The navigati
 ## Technologies Used
 
 ### Languages
-- HTML
-- CSS
-- JavaScript
+- HTML - Used for the Basic Layout of the DND Group Website.
+- CSS - Used for the styling of the DND Group Website.
+- JavaScript - Used for Burger Menu Toggle Button in the smaller screen sizes.
 
 ### Frameworks & Tools
-- Bootstrap v5.0
-- GitHub
-- Gitpod
-- Tinypng
-- Balsamiq
-- Google Fonts
-- Font Awesome
-- Favicon
+- GitHub - Storing the pushed code and Version Control.
+- Gitpod - Online IDE.
+- Bootstrap Version 5.2 - Carousel Images on Home Page.
+- Tinypng - Used to Compress the Images for the Website.
+- Balsamiq - Wireframe Software used at start of Project for site layout.
+- Google Fonts - Used for the fonts within the website. Link within Head of the website
+- Font Awesome - Used for the Socials Tags in footer
+- Favicon - Used for the Browser tab Logo. Link within head of Website.
+
 
 ## Features
 The page consists of Four pages and eight site features.
@@ -213,7 +212,7 @@ The page consists of Four pages and eight site features.
 
 ### HTML Validation
 
-The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
+W3C Markup Validation has been used to validate the HTML code within from the website. All the pages have passed with no errors or no warnings.
 <details><summary>Home</summary>
 <img src="docs/w3_index_validation.PNG">
 </details>
@@ -230,14 +229,15 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <br>
 
 ### CSS Validation
-The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.0. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+W3C Jigsaw CSS Validator has been used validate the CSS code within the website.Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed linked to Bootstrap version 5.2. The CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors found.
 <details><summary>whole page</summary>
 <img src="docs/w3_css_validation_error.PNG">
 </details>
 <details><summary>style.css</summary>
 <img src="docs/w3_css_validation_pass.PNG">
 </details>
+
+<br>
 
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
@@ -254,9 +254,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="">
 </details>
 
+<br>
 
 ### Performance 
-Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
+The DND Group website was tested for performance using Google Lighthouse within Google Chrome Developer Tools.
 
 <details><summary>Home</summary>
 <img src="docs/lighthouse_perf_home.png">
@@ -275,17 +276,14 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 The website was tested on the following devices:
 - Redmi Note 11 Pro 5G
 - Lenovo Ideapad Flex 5
-- Apple Mac Desktop
 
-In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
+The website was also tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
-
-### Testing user stories
 
 
 ## Bugs
@@ -294,9 +292,7 @@ The website was tested on the following browsers:
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
-2. On the left hand menu select Pages
-3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://.github.io//"
+2. 
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
@@ -304,12 +300,7 @@ You can for fork the repository by following these steps:
 
 You can clone the repository by following these steps:
 1. Go to the GitHub repository 
-2. Locate the Code button above the list of files and click it 
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
-4. Open Git Bash
-5. Change the current working directory to the one where you want the cloned directory
-6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7.Press Enter to create your local clone.
+2. 
 
 ## Credits
 Images not referenced below are owned by the developer.
@@ -334,15 +325,8 @@ In order of apearance:
 - [carousel-1](): Photo by <a href="">Photographer</a> on <a href="">Pexels</a>
 
   
-### Code
+### Code used and adapted
 In order of apearance:
-- 
-- 
-- 
-- 
-
-## Acknowledgements
-I would like to take the opportunity to thank:
 - 
 - 
 - 
