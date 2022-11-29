@@ -79,6 +79,8 @@ h1, h2, ul, li, p{
     justify-content: space-between;
     width: 31px;
     height: 21px;
+    background: none;
+    border: none;
 }
 
 .toggle-button .bar {
