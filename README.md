@@ -147,98 +147,72 @@ The website has been presented in a familiar and user friendly way. The navigati
 - Tinypng
 - Balsamiq
 - Google Fonts
-- Font Awsome
+- Font Awesome
 - Favicon
 
 ## Features
-The page consists of Four pages and fourteen features
+The page consists of Four pages and eight site features.
 
 ### Logo and Navigation Bar
-- Featured on all four pages
+- The navbar is has transparent / blurry look to give off the glass effect.
+- The navbar is stick throughout the page scrolling to assist in site navigation.
+- The navbar is fully responsive and uses a toggle burger effect menu for smaller screen sizes and includes links to all 4 pages on the DND Group site.
+- The navbar also has Hover and underline effect when pointer hovers on page link.
+- DND Logo on navbar in Poppins Font to continue continuity through website with clean, simple and effective look.
 
 
-![Logo and navbar]()
+![Logo and navbar](/docs/logo_navbar.png)
 
 ### Carousel
-- Introduces the user to the restaurant with a small three picture slide show
-- Options for the user to navigate the slide show via back and forward arrows or indicators at the bottom
+- The 3no. Carousel Images are to promote clean / stylish look and emphasise on Lighting effects.
+- Text positioned on top of Carousel Images promoting DND motto.
+- The Carousel contains 3no Images that can be scrolled with the use of pointer arrows buttons on both the left and right hand side of image. 
 
-![Carousel]()
+![Carousel](/docs/Hero_img_carousel.png)
 
-### Feature
+### Our Company Ethos
+- The Our Company section shows a block of text for viewers to gain better understanding of what DND Group can provide.
+- Image on right side of text to promote the type of work and standard DND Group provide
+
+![Our Company Ethos](/docs/our_company_ethos.png)
+
+### Our Company Employee Profiles
+- Clean Professional profile Images of Managerial Staff within DND Group.
+- Hover Effect on Staff when pointer lands on profile image to show Name, Position and Contact details for Managerial Staff within DND Group.
 
 
-![Feature]()
-
-### Feature
-
-
-![Feature]()
+![Our Company Employee Profiles](/docs/staff_profiles_hover.png)
 
 ### Footer
-- 
-- 
-- 
+- The footer is a feature that continues through all 4no. pages on the website.
+- The footer contains the company address, Phone no, Email and Links to DND Group Socials.
 
-![Footer]()
+![Footer](/docs/footer_section.png)
 
-### our Company
-- 
-- 
+### our Projects
+- Example Images of projects completed by DND Group.
+- Hover Effect on project images when pointer lands on image to show Project Type, Size and Timescale of that paticular project.
 
-![Our Company]()
+![Our Projects](/docs/projects_section_imgs.png)
 
-### Our Company
-- 
-- 
+### Contact Form
+- The contact Us section Shows the company details to the left of a clean minimalistic contact form and message box on the right side of the screen.
+- The Contact form has a "Send Message" button with Hover effect to an orange colour for effect.
+- The Form is linked to code institute form dump to show contact form details entered and sent.
 
-![Our Projects]()
-
-### Feature
-- 
-- 
-
-![Feature]()
-
-### Feature
-- 
-- 
-
-![Feature]()
-
-### Feature
-- 
-- 
-
-![Feature]()
-
-### Feature
-- 
-- 
-
-![Feature]()
-
-### Contact Us
-- 
-- 
-
-![Contact Form]()
+![Reach Out to Us](/docs/reach_out_to_us.png)
+![Contact Form](/docs/contact_form.png)
 
 ### Map
-- 
-- 
+- The embedded Google Map is located below the Contact form section and takes up width of screen view.
 
-![Map]()
-
-### Info Box
-- 
-- 
-
-![Info Box]()
+![Map](/docs/map_img.png)
 
 ## Validation
+<br>
 
 ### HTML Validation
+
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
 <details><summary>Home</summary>
 <img src="docs/w3_index_validation.PNG">
@@ -253,6 +227,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <img src="docs/w3_contact_us_validation.PNG">
 </details>
 
+<br>
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
@@ -298,9 +273,9 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
-- 
-- 
-- 
+- Redmi Note 11 Pro 5G
+- Lenovo Ideapad Flex 5
+- Apple Mac Desktop
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
