@@ -98,14 +98,14 @@ The DND Group website was designed to be clean, informative and easy to work wit
 The colors scheme chosen for DND Group site aims to be modern and clean. The grey palette that has been chosen represents that cool and sleek view. I used the Coolors palette website to find the colors used with the website.
 <br>
 
-![Colour scheme](./docs/coolors_palette_design.png)
+![Colour scheme](./docs/features/coolors_palette_design.png)
 
 
 ### Fonts
 The Font chosen for the DND Group Website is from the Google Fonts Poppin Family. The font chosen is the Poppins ExtraLight 200. This was chosen to promote the modern, clean functional look that the DND Group site provides to the user.
 <br>
 
-![Fonts](./docs/poppins_google_font.png)
+![Fonts](./docs/features/poppins_google_font.png)
 
 ### Structure
 The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky it moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
@@ -119,16 +119,16 @@ The website has been presented in a familiar and user friendly way. The navigati
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframe_home.png">
+<img src="docs/wireframe/wireframe_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="docs/wireframe_our_company.png">
+<img src="docs/wireframe/wireframe_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="docs/wireframe_our_projects.png">
+<img src="docs/wireframe/wireframe_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="docs/wireframe_contact.png">
+<img src="docs/wireframe/wireframe_contact.png">
 </details>
 
 ## Technologies Used
@@ -160,52 +160,52 @@ The page consists of Four pages and eight site features.
 - DND Logo on navbar in Poppins Font to continue continuity through website with clean, simple and effective look.
 
 
-![Logo and navbar](/docs/logo_navbar.png)
+![Logo and navbar](/docs/features/logo_navbar.png)
 
 ### Carousel
 - The 3no. Carousel Images are to promote clean / stylish look and emphasise on Lighting effects.
 - Text positioned on top of Carousel Images promoting DND motto.
 - The Carousel contains 3no Images that can be scrolled with the use of pointer arrows buttons on both the left and right hand side of image. 
 
-![Carousel](/docs/Hero_img_carousel.png)
+![Carousel](/docs/features/Hero_img_carousel.png)
 
 ### Our Company Ethos
 - The Our Company section shows a block of text for viewers to gain better understanding of what DND Group can provide.
 - Image on right side of text to promote the type of work and standard DND Group provide
 
-![Our Company Ethos](/docs/our_company_ethos.png)
+![Our Company Ethos](/docs/features/our_company_ethos.png)
 
 ### Our Company Employee Profiles
 - Clean Professional profile Images of Managerial Staff within DND Group.
 - Hover Effect on Staff when pointer lands on profile image to show Name, Position and Contact details for Managerial Staff within DND Group.
 
 
-![Our Company Employee Profiles](/docs/staff_profiles_hover.png)
+![Our Company Employee Profiles](/docs/features/staff_profiles_hover.png)
 
 ### Footer
 - The footer is a feature that continues through all 4no. pages on the website.
 - The footer contains the company address, Phone no, Email and Links to DND Group Socials.
 
-![Footer](/docs/footer_section.png)
+![Footer](/docs/features/footer_section.png)
 
 ### our Projects
 - Example Images of projects completed by DND Group.
 - Hover Effect on project images when pointer lands on image to show Project Type, Size and Timescale of that paticular project.
 
-![Our Projects](/docs/projects_section_imgs.png)
+![Our Projects](/docs/features/projects_section_imgs.png)
 
 ### Contact Form
 - The contact Us section Shows the company details to the left of a clean minimalistic contact form and message box on the right side of the screen.
 - The Contact form has a "Send Message" button with Hover effect to an orange colour for effect.
 - The Form is linked to code institute form dump to show contact form details entered and sent.
 
-![Reach Out to Us](/docs/reach_out_to_us.png)
-![Contact Form](/docs/contact_form.png)
+![Reach Out to Us](/docs/features/reach_out_to_us.png)
+![Contact Form](/docs/features/contact_form.png)
 
 ### Map
 - The embedded Google Map is located below the Contact form section and takes up width of screen view.
 
-![Map](/docs/map_img.png)
+![Map](/docs/features/map_img.png)
 
 ## Validation
 <br>
@@ -214,16 +214,16 @@ The page consists of Four pages and eight site features.
 
 W3C Markup Validation has been used to validate the HTML code within from the website. All the pages have passed with no errors or no warnings.
 <details><summary>Home</summary>
-<img src="docs/w3_index_validation.PNG">
+<img src="docs/w3_html/w3_index_validation.PNG">
 </details>
 <details><summary>Our Company</summary>
-<img src="docs/w3_our_company_validation.PNG">
+<img src="docs/w3_html/w3_our_company_validation.PNG">
 </details>
 <details><summary>Our Projects</summary>
-<img src="docs/w3_our_projects_validation.PNG">
+<img src="docs/w3_html/w3_our_projects_validation.PNG">
 </details>
 <details><summary>Contact Us</summary>
-<img src="docs/w3_contact_us_validation.PNG">
+<img src="docs/w3_html/w3_contact_us_validation.PNG">
 </details>
 
 <br>
@@ -231,10 +231,10 @@ W3C Markup Validation has been used to validate the HTML code within from the we
 ### CSS Validation
 W3C Jigsaw CSS Validator has been used validate the CSS code within the website.Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed linked to Bootstrap version 5.2. The CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors found.
 <details><summary>whole page</summary>
-<img src="docs/w3_css_validation_error.PNG">
+<img src="docs/w3_css/w3_css_validation_error.PNG">
 </details>
 <details><summary>style.css</summary>
-<img src="docs/w3_css_validation_pass.PNG">
+<img src="docs/w3_css/w3_css_validation_pass.PNG">
 </details>
 
 <br>
@@ -242,16 +242,16 @@ W3C Jigsaw CSS Validator has been used validate the CSS code within the website.
 ### Accessibility
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
 <details><summary>Home</summary>
-<img src="docs/wave_home.png">
+<img src="docs/Wave/wave_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="docs/wave_our_company.png">
+<img src="/workspace/CI_PP1_DND/docs/Wave/wave_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="docs/wave_our_projects.png">
+<img src="docs/Wave/wave_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="docs/wave_contact_us.png">
+<img src="docs/Wave/wave_contact_us.png">
 </details>
 
 <br>
@@ -260,16 +260,16 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 The DND Group website was tested for performance using Google Lighthouse within Google Chrome Developer Tools.
 
 <details><summary>Home</summary>
-<img src="docs/lighthouse_perf_home.png">
+<img src="docs/Wave/wave_home.png">
 </details>
 <details><summary>Our Company</summary>
-<img src="docs/lighthouse_perf_our_company.png">
+<img src="docs/Wave/wave_our_company.png">
 </details>
 <details><summary>Our Projects</summary>
-<img src="docs/lighthouse_perf_our_projects.png">
+<img src="docs/Wave/wave_our_projects.png">
 </details>
 <details><summary>Contact Us</summary>
-<img src="docs/lighthouse_perf_contact.png">
+<img src="docs/Wave/wave_contact_us.png">
 </details>
 
 ### Performing tests on various devices 
