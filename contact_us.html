@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+    <!-- Head Area holding links to style sheet, Bootstrap , Google Fonts Tab Icon and Page Title -->
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,7 +15,9 @@
     <title>DND Group</title>
 </head>
 <body>
+    <!-- Header Section NavBar and Hero Images in Carousel -->
     <header>
+         <!-- Nav Bar Section including toggle button code for burger menu -->
         <nav class="nav_bar"> 
             <span class="brand_title">DND Group</span>
             <button class="toggle-button">
@@ -32,9 +35,11 @@
             </div>
         </nav>
     </header>
+    <!-- Header Image on Page -->
     <div>
         <img class="project_page_head" src="./assets/css/Images/bristol_bridge_head_img.jpg" alt="Picture of bridge lights">
-    </div>  
+    </div> 
+    <!-- Start of Contact Us and Contact Form --> 
     <section class="contact_us">
         <div class="contact_us_text">
             <h1>REACH OUT TO US</h1>
@@ -47,6 +52,7 @@
             </div>
         </div>
         <hr>
+        <!-- Form Section INC action link to Code Inst Form Dump -->
         <form class="contact" action="https://formdump.codeinstitute.net" method="POST">
         <ul>
            <li class="contact_names">
@@ -67,10 +73,12 @@
         </form>
     </section>
     <hr> 
+    <!-- Google Map section showing location of Company -->
     <div class="map_loc">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9513.721982751453!2d-6.3429802!3d53.4071267!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa48ed1dd8c22abc1!2sDND%20Electrical%20Engineering%20ltd.!5e0!3m2!1sen!2suk!4v1668549933528!5m2!1sen!2suk" 
          height="450" style="border:0; width: 100%;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div> 
+    <!-- Footer Section containing Contact details and Social Links -->
     <footer>
         <div class="address_head">
             <i class="fa-solid fa-location-pin"></i>
@@ -124,10 +132,12 @@
                  </ol>
             </div>                   
         </footer>
+        <!-- JS Boothstrap Link -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
-
+        <!-- JS Font Awesome Link -->
     <script src="https://kit.fontawesome.com/ecdda7faf4.js" crossorigin="anonymous"></script>
+        <!-- Link to Script file for fuctionality of burger menu when site screen size goes to mobile -->
     <script src="./script.js" defer></script>
 </body>
 </html>
