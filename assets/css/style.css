@@ -480,6 +480,12 @@ a{
 
     }
 
+    .about_us_profile > .staff_profile {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
     .contact_us_text, .contact_us {
         width: 100%;
         display: flex;
@@ -502,7 +508,7 @@ a{
         margin: 0;
         align-items: center;
         flex-wrap: wrap;  
-        justify-content: space-between;      
+        flex-direction: column;     
     }
 
     .contact_info {
@@ -521,6 +527,19 @@ a{
     form .contact {
         display: flex;
         justify-content: flex-start;
+    }
+
+    .about_us_profile > .staff_profile {
+        height: auto;
+        width: 50%;
+    }
+
+    .page_title_h1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10rem;
+
     }
 }
 
