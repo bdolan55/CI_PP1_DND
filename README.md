@@ -288,6 +288,14 @@ The website was tested on the following browsers:
 
 ## Bugs
 
+- I had white space below footer on the main page. To remove this I researched in <a href="https://stackoverflow.com/questions/6273032/how-to-get-rid-of-the-whitespace-at-the-bottom">Stack Overflow</a> and found to remove any padding and margins and set the overflow hidden and set width and height to 100% of the html tag and body so all content spreads to height and width of page. 
+
+- I had an issue with the JavaScrip Burger menu that i got from a tutorial <a href="https://www.youtube.com/watch?v=At4B7A4GOPg">Web Dev Simplified</a> when testing the accessibilty on WAVE WebAIM accessibility tool. The accessibility report was showing the burger menu as an empty "a tag" as the burger was built with an "a tag" container around 3 empty spans for the toggle menu. I approached Code Institute Slack for advice on this error and was told to maybe change it to a "button tag" instead. I was still getting the same error on the WAVE Report. I came up with the idea to add an additional "span tag" with some text within the button container and give this additional "span" a class set to display:none in the CSS. This removed the error from the Wave Report.
+
+- I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Input with placeholders text to identify what input information was required in each field. To remove this error I inserted the "label tags" and set a class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
+
+- An existing bug on the site currently is on the Our company page in regards to the staff profile images. When you go in to responsive mode hte Hover effect profile information becomes bigger than the Profile Image container. I have tried numerous times within the media queries to remove this problem with no outcome that I would be fully happy with. 
+
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -328,7 +336,10 @@ In order of apearance:
 ### Code used and adapted
 
 In order of apearance:
-- 
-- 
-- 
-- 
+- <a href="https://getbootstrap.com/docs/5.2/components/carousel/#how-it-works">Bootstrap Version 5.2</a> to install a 3 image Carousel feature on my Hero Images on the Home Screen. The Carousel has a button wither side of the image to allow the user to scroll through the images manually. 
+- <a href="https://www.youtube.com/watch?v=At4B7A4GOPg">Web Dev Simplified</a> tutorial to learn how to utilise JavaScript to make a responsive Navbar toggle button for use with mobile devices. 
+- <a href="https://www.w3schools.com/howto/howto_css_image_overlay.asp">W3 Schools</a> to learn how to do a Image Hover Overlay effect for the Our Projects Images detailing the project information and also the Profiles on the Our Company page to show the name and conatct details of the staff within DND Group.
+- <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof#Bugs"> Ana ( github = 4n4ru )</a> to learn how to do a Github README section. 
+- <a href="https://www.w3schools.com">W3 Schools</a> was used to assist me in small programming methods I had throughout the entire Project. 
+- <a href="https://www.cobeceng.com/contact-us/">Cobec Eng</a> Contact Us page was used as design inspiration for the DND Group Contact Us site. The code is was written myself utiling resources such as <a href="https://www.w3schools.com">W3 Schools</a>.
+- <a href="https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm">Code Institute</a> Software development course was used to assist me in small programming methods I had throughout the entire Project through the well taught and informative Tutorials. 
