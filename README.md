@@ -271,6 +271,9 @@ The DND Group website was tested for performance using Google Lighthouse within 
 <details><summary>Contact Us</summary>
 <img src="docs/lighthouse/lighthouse_perf_contact.png">
 </details>
+<details><summary>Error 404</summary>
+<img src="docs/lighthouse/lighthouse_perf_404.png">
+</details>
 
 ### Performing tests on various devices 
 The website was tested on the following devices:
@@ -294,7 +297,7 @@ The website was tested on the following browsers:
 
 - I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Input with placeholders text to identify what input information was required in each field. To remove this error I inserted the "label tags" and set a class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
 
-- An existing bug on the site currently is on the Our company page in regards to the staff profile images. When you go in to responsive mode hte Hover effect profile information becomes bigger than the Profile Image container. I have tried numerous times within the media queries to remove this problem with no outcome that I would be fully happy with. 
+- I had an error messages on the Our company page in regards to the staff profile images. When you go in to responsive mode the Hover effect profile information becomes bigger than the Profile Image container. this has been sorted with adjusting the width and height of the images in the media section and setting the container to display flex and flex direction column to allow images to take up svreen width for text box Hover.  
 
 
 ## Deployment
@@ -318,7 +321,7 @@ In order of apearance:
 - [samuel_beckett_bridge](/assets/css/Images/web_img_opt/sam_beckett_main.jpg): Photo by <a href="https://www.pexels.com/@lucianphotography/">Luciann Photography</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Outside builing lighting globes](/assets/css/Images/web_img_opt/outdoor_lights_globes.jpg): Photo by <a href="https://www.pexels.com/@flo-dnd-989753/">Flo DND</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Modern Stairwell](/assets/css/Images/web_img_opt/stairs_lights_main.jpg): Photo by <a href="https://www.pexels.com/@braydenlaw/">Brayden Law</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of bridge lights](/assets/css/Images/web_img_opt/bristol_bridge_lights.jpg): Photo by <a href="https://www.pexels.com/@lebele/">Boys in Bristol Photography</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of building tops and Bridge](/assets/Images/pexels-luciann-photography-3566187.jpg): Photo by <a href="https://www.pexels.com/@lucianphotography/">Luciann Photography</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Damian](/assets/css/Images/web_img_opt/damian_profile.jpg): Photo by <a href="https://www.pexels.com/@yankrukov/">Yan Krukov</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Ray](/assets/css/Images/web_img_opt/ray_profile.jpg): Photo by <a href="https://www.pexels.com/@tima-miroshnichenko/">Tima Miroshnichenko</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Holly](/assets/css/Images/web_img_opt/holly_profile.jpg): Photo by <a href="https://www.pexels.com/@thisisengineering/">ThisIsEngineering</a> on <a href="https://www.pexels.com/">Pexels</a>
@@ -343,4 +346,6 @@ In order of apearance:
 - <a href="https://www.w3schools.com">W3 Schools</a> was used to assist me in small programming methods I had throughout the entire Project. 
 - <a href="https://www.cobeceng.com/contact-us/">Cobec Eng</a> Contact Us page was used as design inspiration for the DND Group Contact Us site. The code is was written myself utiling resources such as <a href="https://www.w3schools.com">W3 Schools</a>.
 - <a href="https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm">Code Institute</a> Software development course was used to assist me in small programming methods I had throughout the entire Project  through the well taught and informative Tutorials. I also used the Love Running tutorials to learn how to embed a google map on site.
+- <a href="https://masoomulhaq.com/articles/no-more-image-stretching-issue-in-your-website/">masoomulhaq</a> To learn how to set my header image on the our company, our projects and contact us pages. The image was appearing pixalated and stretched. This site showed me options within CSS to set image position as a header image without stretching the image and becoming pixalated.
+- <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site">GitHub Pages</a> To learn how to set my error 404 page up and link to website.
 
