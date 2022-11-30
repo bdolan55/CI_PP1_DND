@@ -427,8 +427,7 @@ a{
 
     footer{
         display: flex;
-        flex-direction: column;
-        align-items: center;
+        flex-wrap: wrap;
     }
 
     .address_head .phone_head .mail {
@@ -504,6 +503,25 @@ a{
     }
 }
 
+
+
+@media (max-width: 812px) {
+
+    .socials > .social_list {
+        padding: 0;
+    }
+
+}
+@media (max-width: 780px) {
+
+    footer > .socials {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 0 10rem 0 10rem;
+    }
+
+}
+
 @media (max-width: 800px) {
     .about_us_profile {
         margin: 0;
@@ -542,6 +560,8 @@ a{
         margin-right: 10rem;
 
     }
+
+
 }
 
 @media (max-width: 650px) {
@@ -587,6 +607,21 @@ a{
         justify-content: flex-start;
         color: #ff9900;
     }
+}
+
+@media (max-width: 600px) {
+    footer {
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+    footer > .socials {
+        padding: 0;
+        margin: 0;
+    }
+
 }
 
 @media (max-width: 520px) {
