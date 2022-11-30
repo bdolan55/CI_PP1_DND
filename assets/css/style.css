@@ -457,10 +457,11 @@ a{
     .projects_card > .projects_card_txt {
         width: 90%;
         display: flex;
+        flex-wrap: wrap;
         flex-direction: row;
         align-items: center;
         justify-content: center;
-        font-size: xx-small;
+        font-size: x-small;
     }
 }
 
