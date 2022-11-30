@@ -316,21 +316,21 @@ Images not referenced below are owned by the developer.
 ### Media
 In order of apearance:
 - [samuel_beckett_bridge](/assets/css/Images/web_img_opt/sam_beckett_main.jpg): Photo by <a href="https://www.pexels.com/@lucianphotography/">Luciann Photography</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Outside builing lighting globes](/assets/css/Images/web_img_opt/outdoor_lights_globes.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Modern Stairwell](/assets/css/Images/web_img_opt/stairs_lights_main.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Outside builing lighting globes](/assets/css/Images/web_img_opt/outdoor_lights_globes.jpg): Photo by <a href="https://www.pexels.com/@flo-dnd-989753/">Flo DND</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Modern Stairwell](/assets/css/Images/web_img_opt/stairs_lights_main.jpg): Photo by <a href="https://www.pexels.com/@braydenlaw/">Brayden Law</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of bridge lights](/assets/css/Images/web_img_opt/bristol_bridge_lights.jpg): Photo by <a href="https://www.pexels.com/@lebele/">Boys in Bristol Photography</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of Damian](/assets/css/Images/web_img_opt/damian_profile.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of Ray](/assets/css/Images/web_img_opt/ray_profile.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of Holly](/assets/css/Images/web_img_opt/holly_profile.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of Brian](/assets/css/Images/web_img_opt/brian_profile.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of Damian](/assets/css/Images/web_img_opt/damian_profile.jpg): Photo by <a href="https://www.pexels.com/@yankrukov/">Yan Krukov</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of Ray](/assets/css/Images/web_img_opt/ray_profile.jpg): Photo by <a href="https://www.pexels.com/@tima-miroshnichenko/">Tima Miroshnichenko</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of Holly](/assets/css/Images/web_img_opt/holly_profile.jpg): Photo by <a href="https://www.pexels.com/@thisisengineering/">ThisIsEngineering</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of Brian](/assets/css/Images/web_img_opt/brian_profile.jpg): Photo by <a href="https://www.pexels.com/@rodnae-prod/">RODNAE Productions</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Stephen](/assets/css/Images/web_img_opt/brian_profile.jpg): Photo by <a href="https://www.pexels.com/@olly/">Andrea Piacquadio</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Picture of Sarah](/assets/css/Images/web_img_opt/sarah_profile.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Office open plan](/assets/css/Images/aladdin_open_office_lighting.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Picture of Sarah](/assets/css/Images/web_img_opt/sarah_profile.jpg): Photo by <a href="https://www.pexels.com/@polina-zimmerman/">Polina Zimmerman</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Office open plan](/assets/css/Images/aladdin_open_office_lighting.jpg): Photo by <a href="https://www.hillmac.ie/projects">Hillmac</a> on <a href="https://www.hillmac.com/">Pexels</a>
 - [Office stairs and people](/assets/css/Images/web_img_opt/office_stairs_modern.jpg): Photo by <a href="https://www.pexels.com/@proxyclick/">Proxyclick Visitor Management System</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Modern office white](/assets/css/Images/web_img_opt/modern_office_white_lights.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Modern Boardroom wooden ceiling](/assets/css/Images/web_img_opt/meeting_wooden_ceiling_lights.jpg): Photo by <a href="https://www.pexels.com/">Photographer</a> on <a href="">Pexels</a>
+- [Modern office white](/assets/css/Images/web_img_opt/modern_office_white_lights.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Modern Boardroom wooden ceiling](/assets/css/Images/web_img_opt/meeting_wooden_ceiling_lights.jpg): Photo by <a href="https://www.pexels.com/@myhq-workspaces-3638298/">myHQ-Workspaces</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Microsoft recpetion area](/assets/css/Images/web_img_opt/office_stairs_work.jpg): Photo by <a href="https://www.pexels.com/@proxyclick/">Proxyclick Visitor Management System</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Modern reception area](/assets/css/Images/web_img_opt/modern_reception_area.jpg): Photo by <a href="">Photographer</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Modern reception area](/assets/css/Images/web_img_opt/modern_reception_area.jpg): Photo by <a href="https://www.pexels.com/@rajeshverma/">RAJESH KUMAR VERMA</a> on <a href="https://www.pexels.com/">Pexels</a>
 
   
 ### Code used and adapted
