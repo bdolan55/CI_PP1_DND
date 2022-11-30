@@ -175,12 +175,14 @@ The page consists of Four pages and eight site features.
 ### Our Company Ethos
 - The Our Company section shows a block of text for viewers to gain better understanding of what DND Group can provide.
 - Image on right side of text to promote the type of work and standard DND Group provide
+- User Stories Covered: 1
 
 ![Our Company Ethos](/docs/features/our_company_ethos.png)
 
 ### Our Company Employee Profiles
 - Clean Professional profile Images of Managerial Staff within DND Group.
 - Hover Effect on Staff when pointer lands on profile image to show Name, Position and Contact details for Managerial Staff within DND Group.
+- User Stories Covered: 1 , 2 , 8 , 10.
 
 
 ![Our Company Employee Profiles](/docs/features/staff_profiles_hover.png)
@@ -188,12 +190,14 @@ The page consists of Four pages and eight site features.
 ### Footer
 - The footer is a feature that continues through all 4no. pages on the website.
 - The footer contains the company address, Phone no, Email and Links to DND Group Socials.
+- User Stories Covered: 4 , 7 , 8 , 12.
 
 ![Footer](/docs/features/footer_section.png)
 
 ### our Projects
 - Example Images of projects completed by DND Group.
 - Hover Effect on project images when pointer lands on image to show Project Type, Size and Timescale of that paticular project.
+- User Stories Covered: 3 , 6 , 9, 11.
 
 ![Our Projects](/docs/features/projects_section_imgs.png)
 
@@ -201,12 +205,14 @@ The page consists of Four pages and eight site features.
 - The contact Us section Shows the company details to the left of a clean minimalistic contact form and message box on the right side of the screen.
 - The Contact form has a "Send Message" button with Hover effect to an orange colour for effect.
 - The Form is linked to code institute form dump to show contact form details entered and sent.
+- User Stories Covered: 1 , 8 , 12.
 
 ![Reach Out to Us](/docs/features/reach_out_to_us.png)
 ![Contact Form](/docs/features/contact_form.png)
 
 ### Map
 - The embedded Google Map is located below the Contact form section and takes up width of screen view.
+- User Stories Covered: 13 , 5.
 
 ![Map](/docs/features/map_img.png)
 
