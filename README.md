@@ -77,7 +77,7 @@
 
 #### Returning User
 5. As a returning user, I want to see where DND Office is located
-6. As a returnign user, I want to see what types of work DND can provide me a client
+6. As a returning user, I want to see what types of work DND can provide me a client
 7. As a returning user, I want to see links to the Organisations social sites
 8. As a returning user, I want to know how to get in touch with DND Group and Contact details.
  
@@ -342,4 +342,5 @@ In order of apearance:
 - <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof#Bugs"> Ana ( github = 4n4ru )</a> to learn how to do a Github README section. 
 - <a href="https://www.w3schools.com">W3 Schools</a> was used to assist me in small programming methods I had throughout the entire Project. 
 - <a href="https://www.cobeceng.com/contact-us/">Cobec Eng</a> Contact Us page was used as design inspiration for the DND Group Contact Us site. The code is was written myself utiling resources such as <a href="https://www.w3schools.com">W3 Schools</a>.
-- <a href="https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm">Code Institute</a> Software development course was used to assist me in small programming methods I had throughout the entire Project through the well taught and informative Tutorials. 
+- <a href="https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm">Code Institute</a> Software development course was used to assist me in small programming methods I had throughout the entire Project  through the well taught and informative Tutorials. I also used the Love Running tutorials to learn how to embed a google map on site.
+
