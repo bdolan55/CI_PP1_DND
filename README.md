@@ -35,6 +35,7 @@
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Code used and adapted](#Code-used-and-adapted)
+11. [Acknowledgement](#acknowledgement)
 
 ## Project Goals 
 
@@ -110,7 +111,7 @@ The Font chosen for the DND Group Website is from the Google Fonts Poppin Family
 ![Fonts](./docs/features/poppins_google_font.png)
 
 ### Structure
-The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky it moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
+The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky for ease so the navbar moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
 
 - The homepage has a Main Hero Image with Text on top stating DND Group motto. 
 - The Our Company page has a paragraph promoting on DND Group ethos and images and contact details to managerial staff within DND Group.
@@ -308,6 +309,7 @@ The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
+- The responsivness of the site was also texted with the google developer tools to show the website responsivness to various screen sizes.
 ---
 
 ### Testing User Goals 
@@ -428,5 +430,11 @@ In order of apearance:
 - <a href="https://www.cobeceng.com/contact-us/">Cobec Eng</a> Contact Us page was used as design inspiration for the DND Group Contact Us site. The code is was written myself utiling resources such as <a href="https://www.w3schools.com">W3 Schools</a>.
 - <a href="https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecomm">Code Institute</a> Software development course was used to assist me in small programming methods I had throughout the entire Project  through the well taught and informative Tutorials. I also used the Love Running tutorials to learn how to embed a google map on site.
 - <a href="https://masoomulhaq.com/articles/no-more-image-stretching-issue-in-your-website/">masoomulhaq</a> To learn how to set my header image on the our company, our projects and contact us pages. The image was appearing pixalated and stretched. This site showed me options within CSS to set image position as a header image without stretching the image and becoming pixalated.
-- <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site">GitHub Pages</a> To learn how to set my error 404 page up and link to website.
+- <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site">GitHub Pages</a> To learn how to set my error 404 page up and link to website and correct information abour forking and cloning repositorys.
 
+## Acknowledgment
+
+* I would like to Thank my partner Sarah and 2 little boys for allowing me the opportunity abd tine to study abd work on this project even when times were tough and hectic.
+* I would like to Thank Mo Shami for his patience and encourangement throughout this project.
+* I would like to thank the people within the Slack community. The Slack community has been a wealth of knowledge and help throughout and that is from new users like me and all alumni, CI staff and beyond. This community is a credit to Code Institution and encourages the work ethic but also willingness to help. 
+* I would lastly like to Thank the team at Code Institute for the opportunity to be involved in this course and also the staff that have been nothing but encouraging, friendly and helpful through this process.
