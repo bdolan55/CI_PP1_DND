@@ -368,6 +368,9 @@ The website was tested on the following browsers:
 - I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Inputs with placeholders text to identify what input information was required in each field. To remove this error I inserted the label-tags and set class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
 
 - I had an bug on the Our company page in regards to the staff profile images. When you go in to responsive mode the Hover effect profile information becomes alot bigger and covers all the Profile Image container. This has been sorted with adjusting the width and height of the images in the media section and setting the container to display flex and flex direction column to allow images to take up screen width for text box Hover.  
+
+- There is a issue with the text on the Our company page when it goes in to responsive mode for smaller media devices. Text becomes a bit more spaced out between words.
+
 ---
 
 ## Deployment
