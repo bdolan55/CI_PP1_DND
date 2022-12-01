@@ -127,7 +127,7 @@ h1, h2, ul, li, p{
 /* Footer */
 
 footer {
-    background-color: rgba(204, 193, 193, 0.374);
+    background-color: #dee4e6;
     display: flex;
     justify-content: space-between;
     padding: 1rem 5rem;
