@@ -29,7 +29,7 @@
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
+    5. [Performing tests on various devices](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
     7. [Testing User Goals](#testing-user-goals)
 8. [Bugs](#Bugs)
