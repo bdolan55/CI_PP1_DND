@@ -31,7 +31,7 @@
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
-    7. [Testing User Goals] (#testing-user_goals)
+    7. [Testing User Goals](#testing-user-goals)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Code used and adapted](#Code-used-and-adapted)
@@ -395,7 +395,7 @@ You can clone the repository by following these steps:
 ---
 
 ## Credits
-Images not referenced below are owned by the developer.
+
 
 ### Media
 In order of apearance:
