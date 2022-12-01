@@ -436,7 +436,7 @@ In order of apearance:
 
 ## Acknowledgment
 
-* I would like to Thank my partner Sarah and 2 little boys for allowing me the opportunity abd tine to study abd work on this project even when times were tough and hectic.
-* I would like to Thank Mo Shami for his patience and encourangement throughout this project.
-* I would like to thank the people within the Slack community. The Slack community has been a wealth of knowledge and help throughout and that is from new users like me and all alumni, CI staff and beyond. This community is a credit to Code Institution and encourages the work ethic but also willingness to help. 
+* I would like to Thank my partner Sarah and 2 little boys for allowing me the opportunity and time to study and work on this project even when times were tough and hectic.
+* I would like to Thank Mo Shami for his patience, encourangement and guidance throughout this project.
+* I would like to thank the people within the Slack community. The Slack community has been a wealth of knowledge and help throughout this project from new users like me and all alumni, CI staff and beyond. This community is a credit to Code Institution and encourages the work ethic but also willingness to help. 
 * I would lastly like to Thank the team at Code Institute for the opportunity to be involved in this course and also the staff that have been nothing but encouraging, friendly and helpful through this process.
