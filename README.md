@@ -31,6 +31,7 @@
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
+    7. [Testing User Goals] (#testing-user_goals)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Code used and adapted](#Code-used-and-adapted)
@@ -88,6 +89,7 @@
 11. As the site owner, Provide company Case Studies - Information on Projects completed and Image.
 12. As the site owner, Provide contact details and How to get in touch for further information.
 13. As the site owner, Provide company office location and Map.
+---
 
 ## Design
 
@@ -133,6 +135,7 @@ The website has been presented in a familiar and user friendly way. The navigati
 <details><summary>Error 404</summary>
 <img src="docs/wireframe/wireframe_404.png">
 </details>
+---
 
 ## Technologies Used
 
@@ -150,7 +153,7 @@ The website has been presented in a familiar and user friendly way. The navigati
 - Google Fonts - Used for the fonts within the website. Link within Head of the website
 - Font Awesome - Used for the Socials Tags in footer
 - Favicon - Used for the Browser tab Logo. Link within head of Website.
-
+---
 
 ## Features
 The page consists of Four pages and eight site features.
@@ -161,6 +164,7 @@ The page consists of Four pages and eight site features.
 - The navbar is fully responsive and uses a toggle burger effect menu for smaller screen sizes and includes links to all 4 pages on the DND Group site.
 - The navbar also has Hover and underline effect when pointer hovers on page link.
 - DND Logo on navbar in Poppins Font to continue continuity through website with clean, simple and effective look.
+- User Stories Covered: 4
 
 
 ![Logo and navbar](/docs/features/logo_navbar.png)
@@ -190,7 +194,7 @@ The page consists of Four pages and eight site features.
 ### Footer
 - The footer is a feature that continues through all 4no. pages on the website.
 - The footer contains the company address, Phone no, Email and Links to DND Group Socials.
-- User Stories Covered: 4 , 7 , 8 , 12.
+- User Stories Covered: 7 , 8 , 12.
 
 ![Footer](/docs/features/footer_section.png)
 
@@ -215,6 +219,8 @@ The page consists of Four pages and eight site features.
 - User Stories Covered: 13 , 5.
 
 ![Map](/docs/features/map_img.png)
+
+---
 
 ## Validation
 <br>
@@ -302,7 +308,52 @@ The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
+---
 
+### Testing User Goals 
+
+#### First-time User 
+1. As a first time user, I want to find out information about DND Group.
+    * The Company Ethos on the Our Company page will provide all the information required on what DND group can deliver within the Construction FitOut Industry.
+2. As a first time user, I want to be able find out information on Company Personnel.
+    * The Employee Profiles section of the Our Company page Provides all Managerial personnel pictures with the DND Employee Name, Position, Contact No and email. From this section you will gain the information on who to contact and how to contact the relevant person to assist in any question or queries.
+3. As a first time user, I want to see past project completed , Project size and Images of works.
+    * The Our Projects page provides images of completed projects by DND Group. Within this section The user can see the standard of finish, size and project completion time to assist with any queries regarding DND Group ability to complete the website visitors project idea or tender eligibility.
+4. As a first time user, I want to be able to easily navigate throughout the site and find what information i need easily. 
+    * The DND Group Website has an easy to use navigation bar at the top of all Pages. This user bar is responsive and changes to a Burger menu on smaller devices also. 
+    * The Navigation bar is also set to a fixed position at the top of the page as you scroll down the pages. This is to assist the user with the ability to easily move from page to page within the website. 
+<br>
+
+#### Returning User
+5. As a returning user, I want to see where DND Office is located
+    * The DND Group has a footer at the end of each page with all the DND Group Information including the Office address.
+    * On the Contact Us page below the contact for there is a Google embeded map with the DND Group office address and map view location. 
+6. As a returning user, I want to see what types of work DND can provide me as a client.
+    * The Our Company Page outlines the typee of work and Standard DND Group can provide to the client or website visitor. 
+    * The Our Projects gives a visual image of completed projects which promotes the standard and project type DND Group can provide. 
+7. As a returning user, I want to see links to the Organisations social sites.
+    * The footer located at the bottom of the DND Group website pages throughout provides working social links to all of DND Group social sites promoting DND Group. 
+8. As a returning user, I want to know how to get in touch with DND Group and Contact details.
+    * The Our Company page provides employee images and all contact details to the managerial roles within DND Group who will be able to assist in any questions or queries.
+    * The footer located at the bottom of the DND Group website pages throughout has the Main office number within and also the info email address for any general enquiries. 
+<br>
+
+#### Site Owner 
+9.  As the site owner, Provide details of what services DND Group provides as to the Office fitout Industry.
+    * The Our Company Page outlines the type of work and standard DND Group can provide to the client or website visitor. 
+    * The Our Projects gives a visual image of completed projects which promotes the standard and project type DND Group can provide. 
+10. As the site owner, Provide information on Company Organisational Structure and Employee Profiles.
+    * The Employee Profiles section of the Our Company page Provides all Managerial personnel pictures with the DND Employee Name, Position, Contact No and email. From this section any site visitor can gain the information required on who to contact and how to contact the relevant person to assist in any question or queries.
+11. As the site owner, Provide company Case Studies - Information on Projects completed and Image.
+    * The Our Projects page provides images of completed projects by DND Group. Within this section any site visitor can see the standard of finish, size and project completion time to assist with any queries regarding DND Group ability to complete the website visitors project idea or Tender eligibility.
+12. As the site owner, Provide contact details and How to get in touch for further information.
+    * The Employee Profiles section of the Our Company page Provides all Managerial personnel pictures with the DND Employee Name, Position, Contact No and email. From this section any site visitor can gain the information required on who to contact and how to contact the relevant person to assist in any question or queries.
+    * The footer located at the bottom of the DND Group website pages throughout has the Main office number within and also the info email address for any general enquiries.
+    * The Contact Us page has a Form section including a message box for details about how DND Group can assist for any prospective customer looking to get in touch with DND Group. The form assists DND Group with the general information input fields of the person getting in touch for further information. ie. Name, Number, email and company.     
+13. As the site owner, Provide company office location and Map.
+    * The DND Group has a footer at the end of each page with all the DND Group Information including the Office address.
+    * On the Contact Us page below the there is a Google embeded map with the DND Group office address and map view location.
+---
 
 ## Bugs
 
@@ -313,7 +364,7 @@ The website was tested on the following browsers:
 - I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Input with placeholders text to identify what input information was required in each field. To remove this error I inserted the "label tags" and set a class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
 
 - I had an error messages on the Our company page in regards to the staff profile images. When you go in to responsive mode the Hover effect profile information becomes bigger than the Profile Image container. this has been sorted with adjusting the width and height of the images in the media section and setting the container to display flex and flex direction column to allow images to take up svreen width for text box Hover.  
-
+---
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
@@ -327,6 +378,7 @@ You can for fork the repository by following these steps:
 You can clone the repository by following these steps:
 1. Go to the GitHub repository 
 2. 
+---
 
 ## Credits
 Images not referenced below are owned by the developer.
@@ -349,7 +401,7 @@ In order of apearance:
 - [Modern Boardroom wooden ceiling](/assets/Images/web_img_opt/meeting_wooden_ceiling_lights.jpg): Photo by <a href="https://www.pexels.com/@myhq-workspaces-3638298/">myHQ-Workspaces</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Microsoft recpetion area](/assets/Images/web_img_opt/office_stairs_work.jpg): Photo by <a href="https://www.pexels.com/@proxyclick/">Proxyclick Visitor Management System</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Modern reception area](/assets/Images/web_img_opt/modern_reception_area.jpg): Photo by <a href="https://www.pexels.com/@rajeshverma/">RAJESH KUMAR VERMA</a> on <a href="https://www.pexels.com/">Pexels</a>
-
+---
   
 ### Code used and adapted
 
