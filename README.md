@@ -146,15 +146,16 @@ The website has been presented in a familiar and user friendly way. The navigati
 - JavaScript - Used for Burger Menu Toggle Button in the smaller screen sizes.
 
 ### Frameworks & Tools
-- GitHub - Storing the pushed code and Version Control.
-- Gitpod - Online IDE.
-- Bootstrap Version 5.2 - Carousel Images on Home Page.
-- Tinypng - Used to Compress the Images for the Website.
-- Balsamiq - Wireframe Software used at start of Project for site layout.
-- Google Fonts - Used for the fonts within the website. Link within Head of the website
-- Font Awesome - Used for the Socials Tags in footer
-- Favicon - Used for the Browser tab Logo. Link within head of Website.
----
+- <a href="https://github.com/">Github</a> - Storing the pushed code and Version Control.
+- <a href="https://www.gitpod.io/">Gitpod</a> - Online IDE.
+- <a href="https://getbootstrap.com/">Bootstrap Version 5.2</a> - Carousel Images on Home Page.
+- <a href="https://tinypng.com/">Tinypng</a> - Used to Compress the Images for the Website.
+- <a href="https://balsamiq.com/">Balsamiq</a> - Wireframe Software used at start of Project for site layout.
+- <a href="https://fonts.google.com/knowledge">Google Fonts</a> - Used for the fonts within the website. Link within Head of the website
+- <a href="https://fontawesome.com/">Font Awesome</a> - Used for the Socials Tags in footer
+- <a href="https://favicon.io/">Favicon</a> - Used for the Browser tab Logo. Link within head of Website.
+- <a href="https://www.pexels.com/">Pexels</a> - Used to gain images for website.
+
 
 ## Features
 The page consists of Four pages and eight site features.
