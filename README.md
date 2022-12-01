@@ -413,7 +413,7 @@ In order of apearance:
 - [Picture of Brian](/assets/Images/web_img_opt/brian_profile.jpg): Photo by <a href="https://www.pexels.com/@rodnae-prod/">RODNAE Productions</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Stephen](/assets/Images/web_img_opt/stephen_profile.jpg): Photo by <a href="https://www.pexels.com/@olly/">Andrea Piacquadio</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Picture of Sarah](/assets/Images/web_img_opt/sarah_profile.jpg): Photo by <a href="https://www.pexels.com/@polina-zimmerman/">Polina Zimmerman</a> on <a href="https://www.pexels.com/">Pexels</a>
-- [Office open plan](/assets/Images/pexels-pixabay-260931.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Open Reception area Lights](/assets/Images/pexels-pixabay-260931.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Office stairs and people](/assets/Images/web_img_opt/office_stairs_modern.jpg): Photo by <a href="https://www.pexels.com/@proxyclick/">Proxyclick Visitor Management System</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Modern office white](/assets/Images/web_img_opt/modern_office_white_lights.jpg): Photo by <a href="https://www.pexels.com/@pixabay/">Pixabay</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Modern Boardroom wooden ceiling](/assets/Images/web_img_opt/meeting_wooden_ceiling_lights.jpg): Photo by <a href="https://www.pexels.com/@myhq-workspaces-3638298/">myHQ-Workspaces</a> on <a href="https://www.pexels.com/">Pexels</a>
