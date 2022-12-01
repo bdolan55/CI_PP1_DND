@@ -422,6 +422,7 @@ In order of apearance:
 - [Modern Boardroom wooden ceiling](/assets/Images/web_img_opt/meeting_wooden_ceiling_lights.jpg): Photo by <a href="https://www.pexels.com/@myhq-workspaces-3638298/">myHQ-Workspaces</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Microsoft recpetion area](/assets/Images/web_img_opt/office_stairs_work.jpg): Photo by <a href="https://www.pexels.com/@proxyclick/">Proxyclick Visitor Management System</a> on <a href="https://www.pexels.com/">Pexels</a>
 - [Modern reception area](/assets/Images/web_img_opt/modern_reception_area.jpg): Photo by <a href="https://www.pexels.com/@rajeshverma/">RAJESH KUMAR VERMA</a> on <a href="https://www.pexels.com/">Pexels</a>
+- [Error 404 Image](/assets/Images/error404_img.jpg): Photo by <a href="https://www.freepik.com/author/pikisuperstar">pikisuperstar</a> on <a href="https://www.freepik.com/">Freepik</a>
 ---
   
 ### Code used and adapted
