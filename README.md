@@ -34,7 +34,7 @@
     7. [Testing User Goals](#testing-user-goals)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
-10. [Code used and adapted](#Code-used-and-adapted)
+10. [Credits](#credits)
 11. [Acknowledgement](#acknowledgement)
 
 ## Project Goals 
