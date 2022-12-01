@@ -40,7 +40,7 @@
 ## Project Goals 
 
 ### User Goals
-- Find out who DND Group are as and what they can provide in the Construction Industry.
+- Find out who DND Group are and what DND group can provide in the Construction Industry.
 - See profiles and contact details for all managerial staff.
 - To view portfolio of works completed by DND Group.
 - Find DND Group Social Sites for any new updates on projects.
@@ -48,24 +48,24 @@
 - Send message direct from website to DND Group.
 
 ### Site Owner Goals
-- Promote the business and show Online presence for new or existing customers.
+- Promote the business and show online presence for new or existing customers.
 - A place to showcase completed projects by DND Group.
-- Information on Company Organisational Structure and Employee Profiles and contact details.
+- Information on Company Organisational Structure, Employee Profiles and Contact details.
 - Company office location and Map.
 - Provide contact details to get in touch with DND Group directly through Contact Us Page.
 
 ## User Experience
 
 ### Target Audience
-- Existing and new Customers researching companies to complete Construction works.
+- Existing and new customers researching companies to complete Construction works.
 - Engineers and Clients to see past project examples to review suitability for future projects.
-- New clients looking for Construction Fitout works
+- New clients looking for Construction Fitout works.
 - Existing Clients looking for contact details of Managerial staff within DND Group,
 
 ### User Requrements and Expectations
 
 - A clean and easy to use website with simple navigation.
-- Information from DND Group is easy to find and access
+- Information from DND Group is easy to find and access.
 - Easy for existing and new clients to get in contact with DND Group.
 - Examples of previous projects completed by DND Group.
 
@@ -73,20 +73,20 @@
 
 #### First-time User 
 1. As a first time user, I want to find out information about DND Group.
-2. As a first time user, I want to be able find out information on Company Personnel.
-3. As a first time user, I want to see past project completed , Project size and Images of works.
+2. As a first time user, I want to be find out information on Company Personnel.
+3. As a first time user, I want to see past project completed, Project size and Images of works.
 4. As a first time user, I want to be able to easily navigate throughout the site and find what information i need easily. 
 
 #### Returning User
-5. As a returning user, I want to see where DND Office is located
-6. As a returning user, I want to see what types of work DND can provide me a client
-7. As a returning user, I want to see links to the Organisations social sites
+5. As a returning user, I want to see where DND Office is located.
+6. As a returning user, I want to see what types of work DND can provide me a client.
+7. As a returning user, I want to see links to the Organisations social sites.
 8. As a returning user, I want to know how to get in touch with DND Group and Contact details.
  
 
 #### Site Owner 
-9.  As the site owner, Provide details of what services DND Group provides as to the Office fitout Industry.
-10. As the site owner, Provide information on Company Organisational Structure and Employee Profiles
+9.  As the site owner, Provide details of what services DND Group provides to the Office fitout Industry.
+10. As the site owner, Provide information on Company Organisational Structure and Employee Profiles.
 11. As the site owner, Provide company Case Studies - Information on Projects completed and Image.
 12. As the site owner, Provide contact details and How to get in touch for further information.
 13. As the site owner, Provide company office location and Map.
@@ -95,7 +95,7 @@
 ## Design
 
 ### Design Choices
-The DND Group website was designed to be clean, informative and easy to work with which represents the work ethic and customer service DND provide. Modern Images have been used on the site to represent the image of high end and future focused which DND Group provide.  
+The DND Group website was designed to be clean, informative and easy to work with which represents the work ethic and customer service DND provide. Modern Images have been used on the site to represent the image of high end and modern which DND Group provide as a service.  
 
 ### Colour
 The colors scheme chosen for DND Group site aims to be modern and clean. The grey palette that has been chosen represents that cool and sleek view. I used the Coolors palette website to find the colors used with the website.
@@ -111,7 +111,7 @@ The Font chosen for the DND Group Website is from the Google Fonts Poppin Family
 ![Fonts](./docs/features/poppins_google_font.png)
 
 ### Structure
-The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky for ease so the navbar moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. :
+The website has been presented in a familiar and user friendly way. The navigation through the website would be familiar to any user arriving to the site. Navigation bar is clean and presented along the top of the page with the NavBar being set to sticky for ease so the navbar moves with you as you scroll down the page for easy site navigation. From left to right on Navbar you have DND Group Text to show Owner of site and on the right side shows the headings and links to the other pages within the site. 
 
 - The homepage has a Main Hero Image with Text on top stating DND Group motto. 
 - The Our Company page has a paragraph promoting on DND Group ethos and images and contact details to managerial staff within DND Group.
@@ -146,7 +146,7 @@ The website has been presented in a familiar and user friendly way. The navigati
 - JavaScript - Used for Burger Menu Toggle Button in the smaller screen sizes.
 
 ### Frameworks & Tools
-- <a href="https://github.com/">Github</a> - Storing the pushed code and Version Control.
+- <a href="https://github.com/">Github</a> - Storing the pushed code and Version Control of the website.
 - <a href="https://www.gitpod.io/">Gitpod</a> - Online IDE.
 - <a href="https://getbootstrap.com/">Bootstrap Version 5.2</a> - Carousel Images on Home Page.
 - <a href="https://tinypng.com/">Tinypng</a> - Used to Compress the Images for the Website.
@@ -155,14 +155,15 @@ The website has been presented in a familiar and user friendly way. The navigati
 - <a href="https://fontawesome.com/">Font Awesome</a> - Used for the Socials Tags in footer
 - <a href="https://favicon.io/">Favicon</a> - Used for the Browser tab Logo. Link within head of Website.
 - <a href="https://www.pexels.com/">Pexels</a> - Used to gain images for website.
+- <a href="https://coolors.co/">Coolors</a> - Color palettes used on website.
 
 
 ## Features
 The page consists of Four pages and eight site features.
 
 ### Logo and Navigation Bar
-- The navbar is has transparent / blurry look to give off the glass effect.
-- The navbar is stick throughout the page scrolling to assist in site navigation.
+- The navbar is transparent / blurry to look and  give the glass effect.
+- The navbar is sticky throughout the page scrolling to assist in site navigation.
 - The navbar is fully responsive and uses a toggle burger effect menu for smaller screen sizes and includes links to all 4 pages on the DND Group site.
 - The navbar also has Hover and underline effect when pointer hovers on page link.
 - DND Logo on navbar in Poppins Font to continue continuity through website with clean, simple and effective look.
@@ -208,7 +209,7 @@ The page consists of Four pages and eight site features.
 ![Our Projects](/docs/features/projects_section_imgs.png)
 
 ### Contact Form
-- The contact Us section Shows the company details to the left of a clean minimalistic contact form and message box on the right side of the screen.
+- The Contact Us section Shows the company details to the left of a clean minimalistic contact form and message box on the right side of the screen.
 - The Contact form has a "Send Message" button with Hover effect to an orange colour for effect.
 - The Form is linked to code institute form dump to show contact form details entered and sent.
 - User Stories Covered: 1 , 8 , 12.
@@ -229,7 +230,7 @@ The page consists of Four pages and eight site features.
 
 ### HTML Validation
 
-W3C Markup Validation has been used to validate the HTML code within from the website. All the pages have passed with no errors or no warnings.
+The DND Group website was tested using W3C Markup Validation to validate the HTML code from the website. All the pages have passed with no errors or no warnings.
 <details><summary>Home</summary>
 <img src="docs/w3_html/w3_index_validation.PNG">
 </details>
@@ -249,7 +250,7 @@ W3C Markup Validation has been used to validate the HTML code within from the we
 <br>
 
 ### CSS Validation
-W3C Jigsaw CSS Validator has been used validate the CSS code within the website. Parse Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed the issue to be linked with Bootstrap version 5.2. To ensure the CSS would pass the CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors recorded.
+The DND Group website was tested using W3C Jigsaw CSS Validator to validate the CSS code within the website. Parse Errors occured when validating the page with the site link as the W3C Jigsaw CSS Validators showed the issue to be linked with Bootstrap version 5.2. To ensure the CSS would pass the CSS code was pasted direct into the W3C Jigsaw CSS Validator and showed no errors recorded.
 <details><summary>whole page</summary>
 <img src="docs/w3_css/w3_css_validation_error.PNG">
 </details>
@@ -260,7 +261,7 @@ W3C Jigsaw CSS Validator has been used validate the CSS code within the website.
 <br>
 
 ### Accessibility
-WAVE WebAIM accessibility tool has been used to ensure the website shows no accessibility errors. All pages within the website have passed accesibility testing with no errors recoreded.
+The DND Group website was tested using WAVE WebAIM accessibility tool to ensure the website shows no accessibility errors. All pages within the website have passed accesibility testing with no errors recoreded.
 <details><summary>Home</summary>
 <img src="docs/Wave/wave_home.png">
 </details>
@@ -302,15 +303,15 @@ The DND Group website was tested for performance using Google Lighthouse within 
 The website was tested on the following devices:
 - Redmi Note 11 Pro 5G
 - Lenovo Ideapad Flex 5
+- The responsivness of the site was also texted with the google developer tools to show the website responsivness to various screen sizes.
 
-The website was also tested using Google Chrome Developer Tools Device Toggeling option for all available device options.
 
 ### Browser compatability
 The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
-- The responsivness of the site was also texted with the google developer tools to show the website responsivness to various screen sizes.
+
 ---
 
 ### Testing User Goals 
@@ -360,13 +361,13 @@ The website was tested on the following browsers:
 
 ## Bugs
 
-- I had white space below footer on the main page. To remove this I researched in <a href="https://stackoverflow.com/questions/6273032/how-to-get-rid-of-the-whitespace-at-the-bottom">Stack Overflow</a> and found to remove any padding and margins and set the overflow hidden and set width and height to 100% of the html tag and body so all content spreads to height and width of page. 
+- I had white space below footer on the main page. To remove this I researched in <a href="https://stackoverflow.com/questions/6273032/how-to-get-rid-of-the-whitespace-at-the-bottom">Stack Overflow</a> and found to remove any padding and margins and set the overflow hidden and width and height to 100% of the html tag and body so all content spreads to height and width of page. 
 
-- I had an issue with the JavaScrip Burger menu that i got from a tutorial <a href="https://www.youtube.com/watch?v=At4B7A4GOPg">Web Dev Simplified</a> when testing the accessibilty on WAVE WebAIM accessibility tool. The accessibility report was showing the burger menu as an empty "a tag" as the burger was built with an "a tag" container around 3 empty spans for the toggle menu. I approached Code Institute Slack for advice on this error and was told to maybe change it to a "button tag" instead. I was still getting the same error on the WAVE Report. I came up with the idea to add an additional "span tag" with some text within the button container and give this additional "span" a class set to display:none in the CSS. This removed the error from the Wave Report.
+- I had an issue with the JavaScript Burger menu that i got from a tutorial <a href="https://www.youtube.com/watch?v=At4B7A4GOPg">Web Dev Simplified</a> when testing the accessibilty on WAVE WebAIM accessibility tool. The accessibility report was showing the burger menu has an empty a-tag as the burger was built with an a-tag container around 3 empty spans for the toggle menu. I approached Code Institute Slack for advice on this error and was told to maybe change the a-tag to a button-tag instead. I was still getting the same error on the WAVE Report. I came up with the idea to add an additional span tag with some text within the button container and give this additional span class set to display:none in the CSS. This removed the error from the Wave Report.
 
-- I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Input with placeholders text to identify what input information was required in each field. To remove this error I inserted the "label tags" and set a class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
+- I had an error messages on the Contact Us Page when testing the accessibilty on WAVE WebAIM accessibility tool. The 6 errors were caused due to not having any label tags on the contact us form. I wanted this look as I liked the sleek look of the input fields without labels as I labeled the Inputs with placeholders text to identify what input information was required in each field. To remove this error I inserted the label-tags and set class to these tags and similar to my previous bug I set the the label class to display:none in the CSS Styles sheet. This removed the error from the Wave Report and no further errors. 
 
-- I had an error messages on the Our company page in regards to the staff profile images. When you go in to responsive mode the Hover effect profile information becomes bigger than the Profile Image container. this has been sorted with adjusting the width and height of the images in the media section and setting the container to display flex and flex direction column to allow images to take up svreen width for text box Hover.  
+- I had an bug on the Our company page in regards to the staff profile images. When you go in to responsive mode the Hover effect profile information becomes alot bigger and covers all the Profile Image container. This has been sorted with adjusting the width and height of the images in the media section and setting the container to display flex and flex direction column to allow images to take up screen width for text box Hover.  
 ---
 
 ## Deployment
