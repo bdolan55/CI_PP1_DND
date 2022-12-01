@@ -369,11 +369,21 @@ The website was tested on the following browsers:
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
-2. 
+2. Within the settings tab click on the pages section on the left hand side on page.
+3. Navigate to the Build and deployment area of the page and select deploy from a branch.
+4. Within the branch section choose the which root file you would like to deploy.
+5. hit the tab to the right and the dropdown menu choose the file location.
+6. Press save and the site will deloy and be visible at the top of the page.
 
-You can for fork the repository by following these steps:
+How fork a repository by following the below steps:
 1. Go to the GitHub repository
-2. Click on Fork button in upper right hand corner
+2. Click the fork icon on the top right of the page.
+3. Hit the tab with the owner of the forked repository.
+4. As default the repository will be named the same as original Repo but can be changed in box besode ownser tab.
+5. You can add description for repository to the fork file in the text area below the fork repository tabs.
+6. Below the description box you can choose to fork the default branch or all branches for the repository.
+7. Click create fork.
+
 
 You can clone the repository by following these steps:
 1. Go to the GitHub repository 
